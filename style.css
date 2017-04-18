@@ -1,0 +1,61 @@
+body{
+	margin: 0;
+	padding: 0;
+}
+.font{
+	font-family: cursive;
+}
+.ul li{
+list-style: none;
+display: inline-block;
+padding: 10px;
+}
+.ul span {
+	display: block;
+	font-weight: bold;
+	font-family: 'Concert One', cursive;
+}
+.fe span{
+  display: block;
+  font-weight: bold;
+  font-size: 20px;
+  color: white;
+}
+.fe{
+	background: #404040;
+	color: gray;
+	position: relative;
+	bottom: 48px;
+	width: 20%;
+}
+.js{
+background: #f5f5f5;
+position: relative;
+bottom: 56px;
+}
+#MY{
+}
+.la{
+	border: 2px solid #808080;
+	text-align: center;
+	background: #808080;
+}
+.la h3{
+	background: white;
+	width: 20%;
+	margin: auto;
+}
+.row{
+	text-align: justify;
+}
+.row p {
+	font-family: 'Nunito Sans', sans-serif;
+}
+.foot{
+	overflow: hidden;
+	background: gray;
+}
+.des{
+    position: relative;
+	left: 150px;
+}
